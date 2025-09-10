@@ -1,3 +1,9 @@
+:root {
+  --bs-grandient: linear-gradient(45deg, #1e40af, #312e81);
+}
+h1 {
+  margin: 0 !important;
+}
 html {
   font-size: 14px;
 }
