@@ -1,0 +1,27 @@
+name: Build and deplay .NET 9 MVC
+
+on:
+  push:
+    branches: 
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: windows-latest
+    
+    steps:
+      - uses: actions/checkout@main
+
+      - name: Setup .NET 9
+        uses: actions/setup-dotnet@v4 
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Build
+        run: dotnet build --configuration Release
+
+      - name: Run tests
+        run: dotnet test  
+      
+      - name: Create the Package
+        run: dotnet pack --configuration Release
