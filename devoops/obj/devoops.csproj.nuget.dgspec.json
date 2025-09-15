@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthur.duarte\\pictures\\devops\\devoops\\devoops\\devoops.csproj": {}
+    "C:\\Users\\arthur.duarte\\Pictures\\devops\\devoops\\devoops\\devoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthur.duarte\\pictures\\devops\\devoops\\devoops\\devoops.csproj": {
+    "C:\\Users\\arthur.duarte\\Pictures\\devops\\devoops\\devoops\\devoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthur.duarte\\pictures\\devops\\devoops\\devoops\\devoops.csproj",
+        "projectUniqueName": "C:\\Users\\arthur.duarte\\Pictures\\devops\\devoops\\devoops\\devoops.csproj",
         "projectName": "devoops",
-        "projectPath": "C:\\Users\\arthur.duarte\\pictures\\devops\\devoops\\devoops\\devoops.csproj",
+        "projectPath": "C:\\Users\\arthur.duarte\\Pictures\\devops\\devoops\\devoops\\devoops.csproj",
         "packagesPath": "C:\\Users\\arthur.duarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthur.duarte\\pictures\\devops\\devoops\\devoops\\obj\\",
+        "outputPath": "C:\\Users\\arthur.duarte\\Pictures\\devops\\devoops\\devoops\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
